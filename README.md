@@ -1,4 +1,6 @@
-### Hi there 👋
+## Seung Hyeon Lim
+## 🧑🏻‍💻🟢🤖 Android Native Developer
+---
 
 <!--
 **kevinlim17/kevinlim17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

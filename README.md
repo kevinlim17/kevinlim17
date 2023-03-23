@@ -1,5 +1,6 @@
-## Seung Hyeon Lim
-## 🧑🏻‍💻🟢🤖 Android Native Developer
+## Seung Hyeon Lim.</br>Android Native Developer.
+### Do Things For Better Community, Writing Codes & Developing Stories.
+   
 ---
 
 <!--

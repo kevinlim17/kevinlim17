@@ -1,5 +1,5 @@
 ## Seung Hyeon Lim.
-### Do Things For Better Community, Writing Codes & Developing Stories. 
+### Do Things for Better Community, Writing Codes & Developing Stories. 
    
 ---
 ### Objective
@@ -35,9 +35,9 @@
 
 
 ### Service
-- 2021.03 - 2027.02: Undergraduate of Kyung-Hee University, Department of Computer Science and Engineering 
-- 2022.02 - 2022.12: Vice president of Kyung-Hee Univ. CSE Academic Club, D.Com.
-- 2022.09 - 2023.02: Director of Android Development in 3rd Term of University Makers Challenge at Kyung-Hee Univ.
+- 2021.03 - 2027.02: Undergraduate of Kyung-Hee University, Department of Computer Science and Engineering
+- 2022.02 - 2022.12: Vice president of Kyung-Hee Univ. CSE Academic Club, D.Com
+- 2022.09 - 2023.02: Director of Android Development in 3rd Term of University Makers Challenge at Kyung-Hee Univ
 
 
 ### More Info

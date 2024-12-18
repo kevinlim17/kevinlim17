@@ -9,6 +9,7 @@
 - 🚧 &nbsp; :  &nbsp; **Develop services that aim for a Barrier-Free information society.** </br>
 - ⛳️ &nbsp; :  &nbsp; **Work hard to lead our community to focus on various aspects of itself.** </br>
 
+<!--
 ### Stack used
 #### 💬 Language :
 <a href="https://www.oracle.com/kr/java/"><img src="https://img.shields.io/badge/Java-FC8019?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
@@ -38,7 +39,7 @@
 - 2021.03 ~ 2027.02 : Undergraduate of Department of Computer Science and Engineering, Kyung-Hee Univ.
 - 2022.02 ~ 2022.12 : Vice President of [**D.Com**](https://github.com/Dcom-KHU), Academic Club of Computer Science, Kyung-Hee Univ.
 - 2022.09 ~ 2023.02 : Director of Android Development for 3rd Term of University Makers Challenge at Kyung-Hee Univ.
-
+-->
 
 ### More Info
 <a href="https://kevinlim17.notion.site/Resume-b005a778a6b943ba814d4cb2e20e3b4e">

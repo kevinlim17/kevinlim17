@@ -44,7 +44,7 @@
 ### More Info
 <a href="https://kevinlim17.notion.site/Resume-b005a778a6b943ba814d4cb2e20e3b4e">
 <img src="https://img.shields.io/badge/Notion Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://kevinlim17.com"><img src="https://img.shields.io/badge/Dev Blog-020024?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
+<a href="https://soople.site"><img src="https://img.shields.io/badge/Dev Blog-020024?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
 
 <!--
 **kevinlim17/kevinlim17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
